@@ -4,6 +4,6 @@ A scientific article i wrote on "Linear Time Minimum Spanning Tree Algorithms" f
 
 **Abstract**
 
-The problem considered here is that of find ing a minimum spanning tree in a connected graph . Two algorithms with linear time time complexity have been
+The problem considered here is that of finding a minimum spanning tree in a connected graph . Two algorithms with linear time time complexity have been
 presented in the minimum spanning tree problem history, a randomized linear time algorithm was presented in 1995 by Karger, Klein and Tarjan, and a linear time
 deterministic algorithm was presented in 2000 by Chazelle.
